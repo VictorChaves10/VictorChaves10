@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi, I'm Victor! :D
+         
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorChaves10&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **VictorChaves10/VictorChaves10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
