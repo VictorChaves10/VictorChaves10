@@ -12,10 +12,7 @@ My first contact with programming was in late 2021 when I took the web programmi
 
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorChaves10&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorChaves10&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
 
 
 
@@ -23,17 +20,6 @@ My first contact with programming was in late 2021 when I took the web programmi
 
 
 
-<!--
-**VictorChaves10/VictorChaves10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
