@@ -8,7 +8,7 @@ My first contact with programming was in late 2021 when I took the web programmi
 
 - 💼 Technical Support Analyst at Atos
 
-- 👨‍💻 Studying at the 5th .NET Academy by Atos in partnership with Universidade Franciscana.
+- 👨‍💻 Studying at the 5th .NET Academy by Atos in partnership with University Franciscana.
 
 
 
