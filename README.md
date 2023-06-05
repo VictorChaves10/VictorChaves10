@@ -4,7 +4,7 @@
 
 ### About me
 
-My first contact with programming was in late 2021 when I took the web programming course by Professor <a href="https://github.com/gustavoguanabara" rel="_blank">@Gustavo Guanabara</a>. It was in this course that I mastered HTML5 and CSS3 languages. Currently, I am studying backend using the C# programming language and the .NET framework for desktop and web applications. My objective is to become a full stack developer 🎯.
+My first contact with programming was in late 2021 when I took the web programming course. It was in this course that I mastered HTML5 and CSS3 languages. Currently, I am studying backend using the C# programming language and the .NET framework for desktop and web applications. My objective is to become a full stack developer 🎯.
 
 - 💼 Technical Support Analyst at Atos
 
