@@ -1,12 +1,14 @@
 # Hi, I'm Victor! :D
          
 
-
 ### About me
 
-My first contact with programming was in late 2021 when I took the web programming course. It was in this course that I mastered HTML5 and CSS3 languages. Currently, I am studying backend using the C# programming language and the .NET framework for desktop and web applications. My objective is to become a full stack developer 🎯.
+I started studying programming at the beginning of 2022 and completed my first web development course, where I acquired knowledge in HTML5, CSS3, and JavaScript. After consolidating these skills, I had the opportunity to get to know the C# language and the .NET framework. I studied object-oriented programming concepts and MVC architecture patterns.
 
-- 💼 Technical Support Analyst
+Over a period of three months, I took part in a .NET academy, where I improved my knowledge of ASP .NET Core, routes, APIs, Angular, SQL, ORM, and other essential fundamentals. In addition, I sought to improve my skills through online courses dedicated to .NET, which gave me hands-on experience with projects and challenges.
+
+
+- 🎯 I'm currently interested in developing my skills on both the backend and frontend, with the aim of becoming a full stack developer.
 
 
 
