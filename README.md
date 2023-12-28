@@ -13,13 +13,21 @@ Over a period of three months, I took part in a .NET academy, where I improved m
 
 
 <div>
-         <a href="https://github.com/victorchaves10">
-           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorchaves10&layout=compact&langs_count=8&theme=dracula&hide=scss,less"/>
-         </a>
+     <a href="https://github.com/victorchaves10">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorchaves10&layout=compact&langs_count=8&theme=dracula&hide=scss,less"/>
+     </a>
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35px" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35px"/>
-          
+<div>
+         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="35px"/>
+         
+</div>
+
           
           
 
