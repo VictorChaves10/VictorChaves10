@@ -10,7 +10,7 @@ Currently, my focus is on honing my skills in both backend and frontend developm
 <br>
 <br>
 <br>
-<br>
+
 
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" />
