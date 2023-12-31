@@ -14,7 +14,7 @@ Currently, my focus is on honing my skills in both backend and frontend developm
   <a href="https://github.com/victorchaves10" style="flex: 1;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorchaves10&layout=compact&langs_count=8&theme=dracula&hide=scss,less"/>
   </a>
-
+<br>
   <div style="flex: 1; display: flex; justify-content: space-around; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" />
