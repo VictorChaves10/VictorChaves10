@@ -22,6 +22,7 @@ ____
 
 #### Backend:
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4)
+![Static Badge](https://img.shields.io/badge/ASP.NET-%23512BD4?style=flat&logo=csharp)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat&logo=csharp)
 
 #### Frontend: 
