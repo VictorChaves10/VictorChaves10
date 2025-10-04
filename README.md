@@ -7,8 +7,6 @@
 </a>
 
 
-____
-
   
 ## ⚡ Technologies
 
